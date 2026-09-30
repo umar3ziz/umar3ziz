@@ -2,10 +2,10 @@
 
 > *Give me an unclear requirement and I'll come back with the architecture.*
 
-I'm a **Lead Developer at [syscoon](https://syscoon.com)** in Magdeburg, Germany. I've spent
-9+ years building production Python systems, most of them on **Odoo, from v8 to v19**. My job
-is turning vague business requirements into clean architecture: the right abstractions, no
-over-engineering. Then I ship it with the team.
+I'm a **Lead Developer** based in Magdeburg, Germany. I've spent 9+ years building production
+Python systems, most of them on **Odoo, from v8 to v19**. My job is turning vague business
+requirements into clean architecture: the right abstractions, no over-engineering. Then I
+ship it with the team.
 
 ### What I work on
 
